@@ -37,8 +37,8 @@
       <file leaf-file-name="Example01.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jiafu/spark/demo/Example01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2859">
-              <caret line="61" column="48" lean-forward="true" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
+            <state relative-caret-position="122">
+              <caret line="249" column="13" lean-forward="true" selection-start-line="249" selection-start-column="13" selection-end-line="249" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,7 +79,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/jiafu/spark/demo/demo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jiafu/spark/pojo/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jiafu/spark/demo/Example01.java" />
         <option value="$PROJECT_DIR$/src/main/scala/com/jiafu/spark/Example01.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/scala/com/jiafu/spark/scalaDemo.scala" />
@@ -87,6 +86,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/jiafu/spark/RDDOperator.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/jiafu/spark/RddOperator.scala" />
         <option value="$PROJECT_DIR$/src/main/java/com/jiafu/other/Example01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jiafu/spark/demo/Example01.java" />
       </list>
     </option>
   </component>
@@ -117,7 +117,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="127" />
     <option name="y" value="48" />
     <option name="width" value="1855" />
@@ -377,15 +377,15 @@
       <workItem from="1533281892413" duration="599000" />
       <workItem from="1533351426892" duration="1201000" />
       <workItem from="1533629773376" duration="22000" />
-      <workItem from="1533890655873" duration="667000" />
+      <workItem from="1533890655873" duration="1198000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81970000" />
+    <option name="totallyTimeSpent" value="82501000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="127" y="48" width="1855" height="1056" extended-state="0" />
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -398,7 +398,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.29528797" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.83243245" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.6348373" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18297403" />
@@ -795,8 +795,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jiafu/spark/demo/Example01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2859">
-          <caret line="61" column="48" lean-forward="true" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
+        <state relative-caret-position="122">
+          <caret line="249" column="13" lean-forward="true" selection-start-line="249" selection-start-column="13" selection-end-line="249" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

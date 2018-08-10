@@ -245,10 +245,14 @@ public class Example01 {
     sc.stop();
   }
 
+  /**
+   * 这是main函数.
+   * @param args main函数.
+   */
   public static void main(String[] args) {
-    test01();
+//    test01();
 //    test02();
-//    test03();
+    test03();
 //    test04();
 //    test05();
 //    test09();
