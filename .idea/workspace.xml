@@ -1,7 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="006ba9c3-3314-4275-a3c0-5d7fe33e936b" name="Default" comment="" />
+    <list default="true" id="006ba9c3-3314-4275-a3c0-5d7fe33e936b" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/jf/spark/Example01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jiafu/other/Example01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jf/other/Example01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jiafu/spark/demo/Example01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jf/spark/demo/Example01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jiafu/spark/pojo/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jf/spark/pojo/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/jiafu/spark/Example01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/jiafu/spark/RddOperator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/jf/spark/RddOperator.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/jiafu/spark/ScalaDemo02.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/jf/spark/ScalaDemo02.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/jiafu/spark/scalaDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/jf/spark/scalaDemo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/other/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/other/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/other/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/other/Example01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/Example01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$16$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$17$$anonfun$apply$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$test01$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$test02$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$test03$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$test04$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$test05$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$test06$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$test08$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$test09$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$test10$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$test11$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$test12$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$test13$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$test15$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$test16$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$test18$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$test19$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$test20$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$$anonfun$test21$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/RddOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/ScalaDemo02$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/ScalaDemo02$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/ScalaDemo02$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/ScalaDemo02$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/ScalaDemo02$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/ScalaDemo02$$anonfun$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/ScalaDemo02$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/ScalaDemo02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/demo/Example01$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/demo/Example01$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/demo/Example01$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/demo/Example01$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/demo/Example01$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/demo/Example01$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/demo/Example01$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/demo/Example01$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/demo/Example01$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/demo/Example01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/pojo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/scalaDemo$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/scalaDemo$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/scalaDemo$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/scalaDemo$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/scalaDemo$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/scalaDemo$$anonfun$test01$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/scalaDemo$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jiafu/spark/scalaDemo.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,22 +101,82 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.23.0" />
+      </map>
+    </option>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="RddOperator.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/jiafu/spark/RddOperator.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/jf/spark/RddOperator.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6023">
-              <caret line="317" selection-start-line="317" selection-end-line="317" />
+            <state relative-caret-position="76">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scalaDemo.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/jf/spark/scalaDemo.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="149">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+              <folding>
+                <element signature="e#22#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScalaDemo02.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/jf/spark/ScalaDemo02.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+              <folding>
+                <element signature="e#22#178#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Example01.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jiafu/other/Example01.java">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/jf/spark/Example01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+            <state relative-caret-position="190">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Example01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jf/other/Example01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#136#137#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#364#365#0" expanded="true" />
+                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#523#524#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Example01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jf/spark/demo/Example01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="246" column="17" selection-start-line="246" selection-start-column="17" selection-end-line="246" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -34,14 +184,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Example01.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jiafu/spark/demo/Example01.java">
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jf/spark/pojo/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="249" column="13" lean-forward="true" selection-start-line="249" selection-start-column="13" selection-end-line="249" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="551">
+              <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1837">
+              <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -49,7 +215,7 @@
       <file leaf-file-name="PairRDDFunctions.scala" pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.1/spark-core_2.11-2.3.1-sources.jar!/org/apache/spark/rdd/PairRDDFunctions.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8797">
+            <state relative-caret-position="19">
               <caret line="502" column="62" selection-start-line="502" selection-start-column="62" selection-end-line="502" selection-end-column="62" />
             </state>
           </provider>
@@ -79,14 +245,20 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/jiafu/spark/demo/demo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jiafu/spark/pojo/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/jiafu/spark/Example01.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/scala/com/jiafu/spark/scalaDemo.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/jiafu/spark/ScalaDemo02.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/jiafu/spark/RDDOperator.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/jiafu/spark/RddOperator.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jiafu/other/Example01.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jiafu/spark/demo/Example01.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/jiafu/spark/Example01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jiafu/other/Example01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jf/other/Example01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jf/spark/demo/Example01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jf/spark/pojo/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/jf/spark/scalaDemo.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/jf/spark/ScalaDemo02.scala" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -129,6 +301,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -140,11 +313,6 @@
             <path>
               <item name="sparkDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="sparkDemo" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sparkDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sparkDemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -157,76 +325,24 @@
               <item name="sparkDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="sparkDemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sparkDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sparkDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jiafu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sparkDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sparkDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jiafu" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sparkDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sparkDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jiafu" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sparkDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sparkDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jiafu" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sparkDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sparkDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sparkDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sparkDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="RDD&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -243,46 +359,46 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Example01 (1)">
-    <configuration name="Example01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiafu.other.Example01" />
+    <configuration name="Example01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jf.spark.demo.Example01" />
       <module name="sparkDemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiafu.other.*" />
+          <option name="PATTERN" value="com.jf.spark.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Example01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiafu.spark.demo.Example01" />
+      <option name="MAIN_CLASS_NAME" value="com.jf.other.Example01" />
       <module name="sparkDemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiafu.spark.demo.*" />
+          <option name="PATTERN" value="com.jf.other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="RddOperator" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiafu.spark.RddOperator" />
+      <option name="MAIN_CLASS_NAME" value="com.jf.spark.RddOperator" />
       <module name="sparkDemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiafu.spark.*" />
+          <option name="PATTERN" value="com.jf.spark.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="ScalaDemo02" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiafu.spark.ScalaDemo02" />
+      <option name="MAIN_CLASS_NAME" value="com.jf.spark.ScalaDemo02" />
       <module name="sparkDemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiafu.spark.*" />
+          <option name="PATTERN" value="com.jf.spark.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,12 +407,12 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="scalaDemo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiafu.spark.scalaDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.jf.spark.scalaDemo" />
       <module name="sparkDemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiafu.spark.*" />
+          <option name="PATTERN" value="com.jf.spark.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -378,14 +494,15 @@
       <workItem from="1533351426892" duration="1201000" />
       <workItem from="1533629773376" duration="22000" />
       <workItem from="1533890655873" duration="1198000" />
+      <workItem from="1545987430123" duration="1231000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82501000" />
+    <option name="totallyTimeSpent" value="85480000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <frame x="71" y="25" width="1849" height="1055" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -398,10 +515,11 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.29528797" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.6348373" />
+      <window_info anchor="bottom" id="CheckStyle" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.57525086" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18297403" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18524681" />
       <window_info anchor="right" id="Bean Validation" order="3" weight="0.32976446" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -426,7 +544,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jiafu/spark/RddOperator.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jf/spark/RddOperator.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6023">
           <caret line="317" selection-start-line="317" selection-end-line="317" />
@@ -440,17 +558,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiafu/other/Example01.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jf/other/Example01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jiafu/spark/RddOperator.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jf/spark/RddOperator.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6023">
           <caret line="317" selection-start-line="317" selection-end-line="317" />
@@ -464,17 +590,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiafu/other/Example01.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jf/other/Example01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jiafu/spark/RddOperator.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jf/spark/RddOperator.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6023">
           <caret line="317" selection-start-line="317" selection-end-line="317" />
@@ -488,17 +622,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiafu/other/Example01.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jf/other/Example01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jiafu/spark/RddOperator.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jf/spark/RddOperator.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6023">
           <caret line="317" selection-start-line="317" selection-end-line="317" />
@@ -512,17 +654,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiafu/other/Example01.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jf/other/Example01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jiafu/spark/RddOperator.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jf/spark/RddOperator.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6023">
           <caret line="317" selection-start-line="317" selection-end-line="317" />
@@ -536,17 +686,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiafu/other/Example01.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jf/other/Example01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jiafu/spark/RddOperator.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jf/spark/RddOperator.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6023">
           <caret line="317" selection-start-line="317" selection-end-line="317" />
@@ -560,41 +718,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiafu/other/Example01.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jf/other/Example01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1007">
           <caret line="53" column="42" lean-forward="true" selection-start-line="53" selection-start-column="42" selection-end-line="53" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiafu/spark/demo/Example01.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jf/spark/demo/Example01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2584">
           <caret line="172" selection-start-line="172" selection-end-line="172" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jiafu/spark/scalaDemo.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jf/spark/scalaDemo.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
           <folding>
-            <element signature="e#25#72#0" expanded="true" />
+            <element signature="e#22#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jiafu/spark/Example01.java">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jf/spark/Example01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiafu/spark/demo/Example01.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jf/spark/demo/Example01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2584">
           <caret line="172" selection-start-line="172" selection-end-line="172" />
@@ -608,17 +774,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jiafu/spark/scalaDemo.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jf/spark/scalaDemo.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
-            <element signature="e#25#72#0" expanded="true" />
+            <element signature="e#22#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiafu/spark/demo/Example01.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jf/spark/demo/Example01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2584">
           <caret line="172" selection-start-line="172" selection-end-line="172" />
@@ -632,17 +798,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jiafu/spark/scalaDemo.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jf/spark/scalaDemo.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
           <folding>
-            <element signature="e#25#72#0" expanded="true" />
+            <element signature="e#22#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiafu/spark/demo/Example01.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jf/spark/demo/Example01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2584">
           <caret line="172" selection-start-line="172" selection-end-line="172" />
@@ -656,17 +822,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jiafu/spark/scalaDemo.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jf/spark/scalaDemo.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
           <folding>
-            <element signature="e#25#72#0" expanded="true" />
+            <element signature="e#22#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiafu/spark/demo/Example01.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jf/spark/demo/Example01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2584">
           <caret line="172" selection-start-line="172" selection-end-line="172" />
@@ -674,24 +840,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jiafu/spark/demo/com/jiafu/spark/pojo/Person.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiafu/spark/pojo/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0.jar!/org/apache/spark/SparkConf.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="73" column="57" selection-start-line="73" selection-start-column="57" selection-end-line="73" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -737,31 +889,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jiafu/spark/Example01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/jiafu/spark/RDDOperator.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jiafu/spark/ScalaDemo02.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="653" lean-forward="true" selection-start-line="653" selection-end-line="653" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jiafu/spark/scalaDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="46" column="55" selection-start-line="45" selection-end-line="46" selection-end-column="83" />
-          <folding>
-            <element signature="e#25#72#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/IndexedSeqOptimized.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -771,35 +899,92 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.1/spark-core_2.11-2.3.1-sources.jar!/org/apache/spark/rdd/PairRDDFunctions.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8797">
+        <state relative-caret-position="19">
           <caret line="502" column="62" selection-start-line="502" selection-start-column="62" selection-end-line="502" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jiafu/spark/RddOperator.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jf/other/Example01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6023">
-          <caret line="317" selection-start-line="317" selection-end-line="317" />
+        <state relative-caret-position="646">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiafu/other/Example01.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jf/spark/demo/Example01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        <state relative-caret-position="560">
+          <caret line="246" column="17" selection-start-line="246" selection-start-column="17" selection-end-line="246" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiafu/spark/demo/Example01.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jf/spark/pojo/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="249" column="13" lean-forward="true" selection-start-line="249" selection-start-column="13" selection-end-line="249" selection-end-column="13" />
+        <state relative-caret-position="551">
+          <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jf/spark/Example01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jf/spark/RddOperator.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jf/spark/scalaDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#22#54#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jf/spark/ScalaDemo02.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding>
+            <element signature="e#22#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1837">
+          <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -861,6 +1046,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
